@@ -1,0 +1,2 @@
+# CoverStaff
+CoverStaff Plugin
