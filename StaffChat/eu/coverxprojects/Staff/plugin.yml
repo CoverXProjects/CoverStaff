@@ -1,0 +1,7 @@
+name: CoverStaff
+author: [CoverX Development]
+version: 1.0
+main: eu.coverxprojects.Staff.Main
+commands:
+  sc:
+    description: Send a message to all online staff.
